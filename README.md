@@ -3,58 +3,58 @@
 </p>
 
 
-                                                                
-                                                                  📁 DEV_PROFILE
-                                                                ┣ 📂 Name
-                                                                ┃ ┗ 📄 Marcos Aurélio Oliveira Silva
-                                                                ┣ 📂 Role
-                                                                ┃ ┗ 📄 Programmer & Developer
-                                                                ┣ 📂 Languages
-                                                                ┃ ┣ 📄 Pawn
-                                                                ┃ ┣ 📄 Python
-                                                                ┃ ┗ 📄 C#
-                                                                ┣ 📂 Database
-                                                                ┃ ┗ 📄 MySQL
-                                                                ┣ 📂 Platforms & Engines
-                                                                ┃ ┣ 📄 SA-MP
-                                                                ┃ ┣ 📄 Unity
-                                                                ┃ ┣ 📄 Blockbench
-                                                                ┃ ┗ 📄 FL Studio
-                                                                ┣ 📂 SA-MP Systems
-                                                                ┃ ┣ 📄 GameMode Development
-                                                                ┃ ┣ 📄 GameMode Architecture
-                                                                ┃ ┣ 📄 MySQL Integration
-                                                                ┃ ┣ 📄 Modular Systems
-                                                                ┃ ┣ 📄 Login & Register Systems
-                                                                ┃ ┣ 📄 TextDraw Systems
-                                                                ┃ ┣ 📄 Server Development
-                                                                ┃ ┗ 📄 Roleplay Systems
-                                                                ┣ 📂 Architecture
-                                                                ┃ ┣ 📄 SA-MP Server Architect
-                                                                ┃ ┣ 📄 Pawn Include Architect
-                                                                ┃ ┗ 📄 GameMode Architect
-                                                                ┣ 📂 Engineering
-                                                                ┃ ┣ 📄 SA-MP Server Engineer
-                                                                ┃ ┣ 📄 Code Engineer
-                                                                ┃ ┣ 📄 Software Engineer
-                                                                ┃ ┗ 📄 Programming Language Engineer
-                                                                ┣ 📂 Game Development
-                                                                ┃ ┣ 📄 Game Developer
-                                                                ┃ ┣ 📄 Unity Developer
-                                                                ┃ ┣ 📄 Texture Maker
-                                                                ┃ ┗ 📄 PBR Material Creator
-                                                                ┣ 📂 Media & Creative
-                                                                ┃ ┣ 📄 Music Producer
-                                                                ┃ ┣ 📄 Video Producer
-                                                                ┃ ┣ 📄 Professional Beatmaker
-                                                                ┃ ┣ 📄 Professional Samplemaker
-                                                                ┃ ┣ 📄 Photo Editor
-                                                                ┃ ┗ 📄 Designer
-                                                                ┣ 📂 Includes
-                                                                ┃ ┗ 📄 Modular_Programming.inc
-                                                                ┗ 📄 Developer
-                                                                                                                      
-                                                                                                                                                                              
+                                                              
+                                                                📁 DEV_PROFILE
+                                                              ┣ 📂 Name
+                                                              ┃ ┗ 📄 Marcos Aurélio Oliveira Silva
+                                                              ┣ 📂 Role
+                                                              ┃ ┗ 📄 Programmer & Developer
+                                                              ┣ 📂 Languages
+                                                              ┃ ┣ 📄 Pawn
+                                                              ┃ ┣ 📄 Python
+                                                              ┃ ┗ 📄 C#
+                                                              ┣ 📂 Database
+                                                              ┃ ┗ 📄 MySQL
+                                                              ┣ 📂 Platforms & Engines
+                                                              ┃ ┣ 📄 SA-MP
+                                                              ┃ ┣ 📄 Unity
+                                                              ┃ ┣ 📄 Blockbench
+                                                              ┃ ┗ 📄 FL Studio
+                                                              ┣ 📂 SA-MP Systems
+                                                              ┃ ┣ 📄 GameMode Development
+                                                              ┃ ┣ 📄 GameMode Architecture
+                                                              ┃ ┣ 📄 MySQL Integration
+                                                              ┃ ┣ 📄 Modular Systems
+                                                              ┃ ┣ 📄 Login & Register Systems
+                                                              ┃ ┣ 📄 TextDraw Systems
+                                                              ┃ ┣ 📄 Server Development
+                                                              ┃ ┗ 📄 Roleplay Systems
+                                                              ┣ 📂 Architecture
+                                                              ┃ ┣ 📄 SA-MP Server Architect
+                                                              ┃ ┣ 📄 Pawn Include Architect
+                                                              ┃ ┗ 📄 GameMode Architect
+                                                              ┣ 📂 Engineering
+                                                              ┃ ┣ 📄 SA-MP Server Engineer
+                                                              ┃ ┣ 📄 Code Engineer
+                                                              ┃ ┣ 📄 Software Engineer
+                                                              ┃ ┗ 📄 Programming Language Engineer
+                                                              ┣ 📂 Game Development
+                                                              ┃ ┣ 📄 Game Developer
+                                                              ┃ ┣ 📄 Unity Developer
+                                                              ┃ ┣ 📄 Texture Maker
+                                                              ┃ ┗ 📄 PBR Material Creator
+                                                              ┣ 📂 Media & Creative
+                                                              ┃ ┣ 📄 Music Producer
+                                                              ┃ ┣ 📄 Video Producer
+                                                              ┃ ┣ 📄 Professional Beatmaker
+                                                              ┃ ┣ 📄 Professional Samplemaker
+                                                              ┃ ┣ 📄 Photo Editor
+                                                              ┃ ┗ 📄 Designer
+                                                              ┣ 📂 Includes
+                                                              ┃ ┗ 📄 Modular_Programming.inc
+                                                              ┗ 📄 Developer
+                                                                                                                    
+                                                                                                                                                                            
 
 
 
