@@ -1,21 +1,25 @@
 <p align="center">
   <img src="portfolio.png" style="object-fit:contain;" width="100%" />
 </p>
-                                                        📁 DEV_PROFILE
-                                                        ┣ 📂 Name
-                                                        ┃ ┗ 📄 MarcosAurelio
-                                                        ┣ 📂 Languages
-                                                        ┃ ┗ 📄 Pawn
-                                                        ┣ 📂 Platform
-                                                        ┃ ┗ 📄 SA-MP
-                                                        ┣ 📂 Includes
-                                                        ┃ ┗ 📄 Modular_Programming.inc
-                                                        ┣ 📂 Specializations
-                                                        ┃ ┣ 📄 SA-MP Server Engineer
-                                                        ┃ ┣ 📄 Code Engineer
-                                                        ┃ ┣ 📄 Software Engineer
-                                                        ┃ ┗ 📄 Programming Language Engineer
-                                                        ┗ 📄 Programmer & Developer
+
+                                                       
+                                                    📁 DEV_PROFILE
+                                                    ┣ 📂 Name
+                                                    ┃ ┗ 📄 MarcosAurelio
+                                                    ┣ 📂 Languages
+                                                    ┃ ┗ 📄 Pawn
+                                                    ┣ 📂 Platform
+                                                    ┃ ┗ 📄 SA-MP
+                                                    ┣ 📂 Includes
+                                                    ┃ ┗ 📄 Modular_Programming.inc
+                                                    ┣ 📂 Specializations
+                                                    ┃ ┣ 📄 SA-MP Server Engineer
+                                                    ┃ ┣ 📄 Code Engineer
+                                                    ┃ ┣ 📄 Software Engineer
+                                                    ┃ ┗ 📄 Programming Language Engineer
+                                                    ┗ 📄 Programmer & Developer
+
+                                                        
 
 
 
