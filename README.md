@@ -5,35 +5,51 @@
 
 
 
-                                                            📁 DEV_PROFILE
-                                                            ┣ 📂 Name
-                                                            ┃ ┗ 📄 Marcos Aurélio Oliveira Silva
-                                                            ┣ 📂 Role
-                                                            ┃ ┗ 📄 Programmer & Developer
-                                                            ┣ 📂 Languages
-                                                            ┃ ┣ 📄 Pawn
-                                                            ┃ ┣ 📄 Python
-                                                            ┃ ┗ 📄 C#
-                                                            ┣ 📂 Database
-                                                            ┃ ┗ 📄 MySQL
-                                                            ┣ 📂 Platform
-                                                            ┃ ┗ 📄 SA-MP
-                                                            ┣ 📂 SA-MP Systems
-                                                            ┃ ┣ 📄 GameMode Development
-                                                            ┃ ┣ 📄 MySQL Integration
-                                                            ┃ ┣ 📄 Modular Systems
-                                                            ┃ ┣ 📄 Login & Register Systems
-                                                            ┃ ┗ 📄 Server Development
-                                                            ┣ 📂 Engineering
-                                                            ┃ ┣ 📄 SA-MP Server Engineer
-                                                            ┃ ┣ 📄 Code Engineer
-                                                            ┃ ┣ 📄 Software Engineer
-                                                            ┃ ┗ 📄 Programming Language Engineer
-                                                            ┣ 📂 Includes
-                                                            ┃ ┗ 📄 Modular_Programming.inc
-                                                            ┗ 📄 Developer
 
-
+                                                          
+                                                          📁 DEV_PROFILE
+                                                          ┣ 📂 Name
+                                                          ┃ ┗ 📄 Marcos Aurélio Oliveira Silva
+                                                          ┣ 📂 Role
+                                                          ┃ ┗ 📄 Programmer & Developer
+                                                          ┣ 📂 Languages
+                                                          ┃ ┣ 📄 Pawn
+                                                          ┃ ┣ 📄 Python
+                                                          ┃ ┗ 📄 C#
+                                                          ┣ 📂 Database
+                                                          ┃ ┗ 📄 MySQL
+                                                          ┣ 📂 Platform
+                                                          ┃ ┗ 📄 SA-MP
+                                                          ┣ 📂 SA-MP Systems
+                                                          ┃ ┣ 📄 GameMode Development
+                                                          ┃ ┣ 📄 GameMode Architecture
+                                                          ┃ ┣ 📄 MySQL Integration
+                                                          ┃ ┣ 📄 Modular Systems
+                                                          ┃ ┣ 📄 Login & Register Systems
+                                                          ┃ ┣ 📄 TextDraw Systems
+                                                          ┃ ┣ 📄 Server Development
+                                                          ┃ ┗ 📄 Roleplay Systems
+                                                          ┣ 📂 Architecture
+                                                          ┃ ┣ 📄 SA-MP Server Architect
+                                                          ┃ ┣ 📄 Pawn Include Architect
+                                                          ┃ ┗ 📄 GameMode Architect
+                                                          ┣ 📂 Engineering
+                                                          ┃ ┣ 📄 SA-MP Server Engineer
+                                                          ┃ ┣ 📄 Code Engineer
+                                                          ┃ ┣ 📄 Software Engineer
+                                                          ┃ ┗ 📄 Programming Language Engineer
+                                                          ┣ 📂 Media & Creative
+                                                          ┃ ┣ 📄 Music Producer
+                                                          ┃ ┣ 📄 Video Producer
+                                                          ┃ ┣ 📄 Professional Beatmaker
+                                                          ┃ ┣ 📄 Professional Samplemaker
+                                                          ┃ ┣ 📄 Photo Editor
+                                                          ┃ ┗ 📄 Designer
+                                                          ┣ 📂 Includes
+                                                          ┃ ┗ 📄 Modular_Programming.inc
+                                                          ┗ 📄 Developer
+                                                          
+                                                          
 
                                                         
 
