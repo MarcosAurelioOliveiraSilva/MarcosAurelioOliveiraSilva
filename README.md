@@ -2,22 +2,38 @@
   <img src="portfolio.png" style="object-fit:contain;" width="100%" />
 </p>
 
-                                                       
-                                                    📁 DEV_PROFILE
-                                                    ┣ 📂 Name
-                                                    ┃ ┗ 📄 MarcosAurelio
-                                                    ┣ 📂 Languages
-                                                    ┃ ┗ 📄 Pawn
-                                                    ┣ 📂 Platform
-                                                    ┃ ┗ 📄 SA-MP
-                                                    ┣ 📂 Includes
-                                                    ┃ ┗ 📄 Modular_Programming.inc
-                                                    ┣ 📂 Specializations
-                                                    ┃ ┣ 📄 SA-MP Server Engineer
-                                                    ┃ ┣ 📄 Code Engineer
-                                                    ┃ ┣ 📄 Software Engineer
-                                                    ┃ ┗ 📄 Programming Language Engineer
-                                                    ┗ 📄 Programmer & Developer
+
+
+
+                                                            📁 DEV_PROFILE
+                                                            ┣ 📂 Name
+                                                            ┃ ┗ 📄 Marcos Aurélio Oliveira Silva
+                                                            ┣ 📂 Role
+                                                            ┃ ┗ 📄 Programmer & Developer
+                                                            ┣ 📂 Languages
+                                                            ┃ ┣ 📄 Pawn
+                                                            ┃ ┣ 📄 Python
+                                                            ┃ ┗ 📄 C#
+                                                            ┣ 📂 Database
+                                                            ┃ ┗ 📄 MySQL
+                                                            ┣ 📂 Platform
+                                                            ┃ ┗ 📄 SA-MP
+                                                            ┣ 📂 SA-MP Systems
+                                                            ┃ ┣ 📄 GameMode Development
+                                                            ┃ ┣ 📄 MySQL Integration
+                                                            ┃ ┣ 📄 Modular Systems
+                                                            ┃ ┣ 📄 Login & Register Systems
+                                                            ┃ ┗ 📄 Server Development
+                                                            ┣ 📂 Engineering
+                                                            ┃ ┣ 📄 SA-MP Server Engineer
+                                                            ┃ ┣ 📄 Code Engineer
+                                                            ┃ ┣ 📄 Software Engineer
+                                                            ┃ ┗ 📄 Programming Language Engineer
+                                                            ┣ 📂 Includes
+                                                            ┃ ┗ 📄 Modular_Programming.inc
+                                                            ┗ 📄 Developer
+
+
 
                                                         
 
